@@ -8,6 +8,7 @@ The package can be installed as
 Use as 
 
     >>from xenaPythonTest import xenaAPI
+    >>from xenaPythonTest import xena_query
  
  OR
  

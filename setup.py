@@ -17,7 +17,7 @@ setup(
 
 # setup(
 #   name = 'xenaPythonTest',
-#   packages = ['xenaPythonTest'], # this must be the same as the name above
+#   packages = ['xenaPythonTest'],
 #   version = '0.1',
 #   description = 'A random test lib',
 #   maintainer = 'GiriB',

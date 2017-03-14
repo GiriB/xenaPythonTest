@@ -1,4 +1,4 @@
-import xena_query as xena
+import xenaQuery as xena
 
 def Gene_values (hub, dataset, samples, gene):
     values = xena.dataset_gene_values (hub, dataset, samples, [gene])

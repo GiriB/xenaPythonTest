@@ -1,5 +1,11 @@
 ##xenaPythonTest
-This is testpypi package for [xenaAPI](https://github.com/jingchunzhu/cgDataNew/tree/master/xena) 
+This is a [testpypi](https://testpypi.python.org/pypi) package for [xenaAPI](https://github.com/jingchunzhu/cgDataNew/tree/master/xena).
+
+
+Also take a look at[#2](https://github.com/ucscXena/python-scripts/issues/2)
+
+###Usage
+
 
 The package can be installed as
  
@@ -8,6 +14,7 @@ The package can be installed as
 Use as 
 
     >>from xenaPythonTest import xenaAPI
+    >>from xenaPythonTest import xena_query
  
  OR
  

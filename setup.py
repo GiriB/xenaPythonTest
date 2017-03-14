@@ -10,16 +10,5 @@ setup(
     url = 'https://github.com/jingchunzhu/cgDataNew/tree/master/xena', 
     keywords = ['xena', 'ucsc', 'xenaAPI'],
     license='MIT', 
+    include_package_data=True, # To include files specified in MANIFEST.in
 )
-
-
-# setup(
-#   name = 'xenaPythonTest',
-#   packages = ['xenaPythonTest'], # this must be the same as the name above
-#   version = '0.1',
-#   description = 'A random test lib',
-#   maintainer = 'GiriB',
-#   maintainer_email = 'giri1gb@gmail.com',
-#   url = 'https://github.com/jingchunzhu/cgDataNew/tree/master/xena', 
-#   keywords = ['xena', 'ucsc', 'xenaAPI'], 
-# )
